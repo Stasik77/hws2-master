@@ -1,0 +1,72 @@
+.friendMessage {
+    /*border: #7018dc solid 1px;*/
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 70px;
+
+}
+
+.friendImageAndText {
+    display:flex;
+    gap: 25px;
+
+}
+
+.friendImageAndText img {
+    width: 48px;
+    height: 48px;
+}
+
+.friendText {
+    background-color:#F5F7FB;
+    color:#000000;
+    font-weight: 400;
+
+
+
+    min-height: 60px;
+    margin-right: 12px;
+
+
+    border-radius: 10px 10px  10px 0;
+    padding: 8px 13px;
+    position: relative; /* Нужно для позиционирования псевдоэлемента */
+
+
+
+}
+
+
+.friendText:after {
+    content: '';
+    position: absolute;
+    left: -10px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 10px 10px;
+    border-color: transparent transparent #F5F7FB transparent ;
+
+}
+
+
+.friendName {
+    font-size: 18px;
+    font-weight: 600;
+
+
+}
+
+.friendMessageText {
+    font-size: 16px;
+    /*border: #3a205b solid 1px;*/
+
+}
+
+.friendTime {
+    font-size: 10px;
+    font-weight: 600;
+    margin-left: 10px;
+
+}

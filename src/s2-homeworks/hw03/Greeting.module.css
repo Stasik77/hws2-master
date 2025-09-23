@@ -1,0 +1,42 @@
+.greetingForm {
+}
+
+.inputAndButtonContainer {
+}
+
+.error {
+    color: #CC0000;
+}
+
+.input {
+    height: 36px;
+}
+
+.input:focus {
+}
+
+.errorInput {
+}
+
+.button {
+    width: 78px;
+    background-color: #0066CC;
+    margin: 12px;
+    color: white;
+
+}
+
+.button:focus {
+}
+
+.button:active {
+}
+
+.button:disabled {
+}
+
+.text {
+}
+
+.greeting {
+}
