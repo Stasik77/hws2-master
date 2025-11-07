@@ -5,19 +5,37 @@
 }
 
 .users {
+    color:#000000;
 }
 
 .buttonsContainer {
+     display: flex;
+    margin-left:250px;
+    gap: 10px;
 }
 
 .container {
+    background-color: #E5E5E5;
+    width: 606px;
+
+
 }
 
 .thead {
+    color: #000000;
+    font-weight: 600;
+border: #d31010 1px solid ;
+
 }
 
 .nameCol {
+    border: #d31010 1px solid
 }
 
 .ageCol {
+    background-color: #E5E5E5;
+   padding-left: 218px;
+
+
+
 }
