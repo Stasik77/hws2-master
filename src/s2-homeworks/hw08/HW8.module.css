@@ -1,21 +1,27 @@
 .item {
+    padding-bottom: 25px;
+
 }
 
 .item:last-of-type {
+
+
 }
 
 .users {
-    color:#000000;
+    color: #000000;
+
 }
 
 .buttonsContainer {
-     display: flex;
-    margin-left:250px;
+    display: flex;
+    margin-left: 250px;
     gap: 10px;
+
 }
 
 .container {
-    background-color: #E5E5E5;
+
     width: 606px;
 
 
@@ -24,18 +30,16 @@
 .thead {
     color: #000000;
     font-weight: 600;
-border: #d31010 1px solid ;
 
 }
 
 .nameCol {
-    border: #d31010 1px solid
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 210px;
+    border-bottom: 1px  solid #E5E5E5;
 }
 
 .ageCol {
-    background-color: #E5E5E5;
-   padding-left: 218px;
-
-
 
 }
