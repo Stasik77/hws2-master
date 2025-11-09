@@ -10,6 +10,10 @@
 
 .users {
     color: #000000;
+    background-color: #E5E5E5;
+    width: 609px;
+    padding-right: 250px;
+    height: 5px;
 
 }
 
@@ -17,6 +21,7 @@
     display: flex;
     margin-left: 250px;
     gap: 10px;
+    padding-bottom: 25px;
 
 }
 
@@ -25,11 +30,14 @@
     width: 606px;
 
 
+
+
 }
 
 .thead {
     color: #000000;
     font-weight: 600;
+
 
 }
 
@@ -37,7 +45,7 @@
     padding-bottom: 15px;
     padding-top: 15px;
     padding-right: 210px;
-    border-bottom: 1px  solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
 }
 
 .ageCol {
