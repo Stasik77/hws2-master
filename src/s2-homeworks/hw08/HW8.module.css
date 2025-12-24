@@ -23,16 +23,13 @@
     gap: 10px;
     padding-bottom: 25px;
 
+
 }
 
 .container {
 
     width: 606px;
-
-
-
-
-}
+ }
 
 .thead {
     color: #000000;
@@ -45,7 +42,7 @@
     padding-bottom: 15px;
     padding-top: 15px;
     padding-right: 210px;
-    border-bottom: 1px solid #E5E5E5;
+    border-bottom: #1c0101 1px solid;
 }
 
 .ageCol {
