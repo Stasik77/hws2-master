@@ -1,11 +1,8 @@
 .item {
     padding-bottom: 25px;
-
 }
 
 .item:last-of-type {
-
-
 }
 
 .users {
@@ -14,7 +11,6 @@
     width: 609px;
     padding-right: 250px;
     height: 5px;
-
 }
 
 .buttonsContainer {
@@ -22,20 +18,15 @@
     margin-left: 250px;
     gap: 10px;
     padding-bottom: 25px;
-
-
 }
 
 .container {
-
     width: 606px;
  }
 
 .thead {
     color: #000000;
     font-weight: 600;
-
-
 }
 
 .nameCol {
@@ -46,5 +37,4 @@
 }
 
 .ageCol {
-
 }
