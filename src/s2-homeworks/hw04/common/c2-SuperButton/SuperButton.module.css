@@ -3,6 +3,9 @@
     color: #FFFFFF;
     width: 132px;
     border-radius: 3px;
+    border:  1px solid  #0066CC;
+    font-size: 14px;
+    padding: 5px 24px;
 }
 
 .disabled {
@@ -49,6 +52,7 @@
 .default:active {
     width: 167px;
     background-color: #0059B2;
+
 }
 
 .secondary:active {
@@ -66,5 +70,6 @@
     background-color: #004D99;
     color: #002E5C;
     opacity: 0.5;
+
 
 }
