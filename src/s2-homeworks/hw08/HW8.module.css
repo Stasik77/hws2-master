@@ -3,6 +3,7 @@
 }
 
 .item:last-of-type {
+
 }
 
 .users {
@@ -15,9 +16,10 @@
 
 .buttonsContainer {
     display: flex;
-    margin-left: 250px;
-    gap: 10px;
+    margin-left: 150px;
+    gap: 20px;
     padding-bottom: 25px;
+
 }
 
 .container {
