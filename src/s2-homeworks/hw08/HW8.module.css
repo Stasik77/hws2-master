@@ -1,5 +1,6 @@
 .item {
     padding-bottom: 25px;
+
 }
 
 .item:last-of-type {
@@ -8,7 +9,7 @@
 
 .users {
     color: #000000;
-    background-color: #E5E5E5;
+
     width: 609px;
     padding-right: 250px;
     height: 5px;
@@ -24,20 +25,28 @@
 
 .container {
     width: 606px;
-    border: #CC1439 1px solid;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
  }
 
 .thead {
     color: #000000;
     font-weight: 600;
+    background-color: #E5E5E5;
+    width: 25px;
+    border: #CC1439 1px solid ;
+
 }
 
 .nameCol {
     padding-bottom: 15px;
     padding-top: 15px;
     padding-right: 210px;
+
     border-bottom: #1c0101 1px solid;
 }
 
 .ageCol {
+
 }
