@@ -18,7 +18,7 @@
 .buttonsContainer {
     display: flex;
     margin-left: 150px;
-    gap: 20px;
+    gap: 10px;
     padding-bottom: 25px;
 
 }
