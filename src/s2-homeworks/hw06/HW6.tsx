@@ -34,6 +34,7 @@ const HW6 = () => {
                     <SuperEditableSpan
                         id={'hw6-spanable-input'}
                         value={value}
+                        placeholder={"Привет"}
                         onChangeText={setValue}
                         spanProps={{
                             id: 'hw6-editable-span',
