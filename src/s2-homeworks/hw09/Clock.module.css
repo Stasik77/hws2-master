@@ -3,15 +3,17 @@
 }
 
 .clock {
-    color: black;
+
     font-size: 20px;
 }
 
 .watch {
+    color:#000000 ;
 }
 
 .watch strong {
 }
 
 .more {
+    color:#00000080 ;
 }
