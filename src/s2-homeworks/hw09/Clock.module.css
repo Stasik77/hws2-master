@@ -1,7 +1,10 @@
 .buttonsContainer {
-    font-size: 25px;
+    width: 84px;
+    height: 30px;
     display: flex;
     gap: 25PX;
+    margin-bottom: 25px;
+
 
 }
 
