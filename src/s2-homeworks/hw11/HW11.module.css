@@ -1,4 +1,6 @@
 .container {
+    border: 1px salmon solid;
+    width: 150px;
 }
 
 .wrapper {
