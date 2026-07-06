@@ -1,11 +1,12 @@
 .container {
-
-    width: 150px;
+    margin-bottom: 200px;
 }
 
 .wrapper {
-}
 
+    width: 150px;
+
+}
 .number {
     color: black;
 }

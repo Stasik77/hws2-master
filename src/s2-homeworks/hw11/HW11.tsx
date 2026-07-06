@@ -18,8 +18,8 @@ function HW11() {
     const change = (event: any, value: any) => {
 
         if (Array.isArray(value)) {
-            setValue1(value1);
-            setValue2(value2);
+            setValue1(value[0]);
+            setValue2(value[1]);
         } else {
             setValue1(value);
         }
@@ -50,8 +50,8 @@ function HW11() {
                             // сделать так чтоб value1/2 изменялось // пишет студент
                             value={[value1,value2]}
                             onChange={change}
-
                         />
+
                         <span id={'hw11-value-2'} className={s.number}>{value2}</span>
                     </div>
                 </div>
