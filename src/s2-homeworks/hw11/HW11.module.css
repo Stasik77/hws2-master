@@ -1,17 +1,16 @@
 .container {
     margin-bottom: 200px;
+
 }
 
 .wrapper {
-display: flex;
     width: 250px;
     padding-right: 25px;
+    display: flex;
 }
 .number {
     color: black;
      gap: 15px;
-
-
 
 
 }
